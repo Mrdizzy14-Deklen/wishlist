@@ -11,3 +11,5 @@
 -NFC ring (ring with id scanner)
 
 -Money to fund a magic deck ($50-$100)
+
+-Not Enough Mana(board game)
